@@ -4,8 +4,6 @@ This repository is all about building chatbot in Python programming language and
 - The implementation is straightforward with a Feed Forward Neural network with 2 hidden layers.
 - The `intent.json` can be customized to fit for any other usecases with possible patterns and responses.
 
-
-
 ## Usage
 Run
 ```console
@@ -44,4 +42,4 @@ Have a look at [intents.json](intents.json). You can customize it according to y
 ```
 
 ## Reference
-[link](https://www.youtube.com/watch?v=RpWeNzfSUHw&list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg)
+[Youtube Tutorial](https://www.youtube.com/watch?v=RpWeNzfSUHw&list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg)
